@@ -13,9 +13,10 @@ Tools: Git, Visual Studio Code
 Projects
 Here are some of the projects I've worked on:
 
-Maharlika App - An e-commerce app for native Filipino handicrafts and products
-Project 2 - Short description
-And more coming soon! ✨
+Maharlika App - An e-commerce app for native Filipino handicrafts and products🛍️
+Microcontroller Projects - Basic electronics and IoT projects using Arduino Mega involving sensors like humidity, PIR, ultrasonic, etc. and components like LCD display, WiFi/Bluetooth modules, and relays.
+And more are coming soon! ✨
 
 Let's Connect
 Want to collaborate? Reach out to me on LinkedIn 🤝!
+www.linkedin.com/in/john-lance-tumala-24332128a
