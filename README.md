@@ -19,4 +19,4 @@ And more are coming soon! ✨
 
 Let's Connect
 Want to collaborate? Reach out to me on LinkedIn 🤝!
-www.linkedin.com/in/john-lance-tumala-24332128a
+linkedin.com/in/jldtumala
